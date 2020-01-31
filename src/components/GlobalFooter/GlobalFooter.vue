@@ -4,7 +4,7 @@
       <a
         href="#"
         target="_blank"
-      >Quantum 首页</a>
+      >Alan.Luo 首页</a>
       <a
         href="https://github.com/sendya/ant-design-pro-vue"
         target="_blank"
@@ -15,7 +15,7 @@
     </div> -->
     <div class="copyright">
       Copyright
-      <a-icon type="copyright" /> 2019 <span>For Quantum</span>
+      <a-icon type="copyright" /> 2019 <span>For Alan.Luo</span>
     </div>
   </div>
 </template>

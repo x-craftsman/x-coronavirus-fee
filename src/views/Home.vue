@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <div class="banner">
-      <img alt="Vue logo" style="width: 64px; height: 64px" src="../assets/logo.png">
-      <h3 style="margin-top: 1rem">Welcome to Your Vue.js App</h3>
+      <img alt="Vue logo" style="width: 64px; height: 64px" src="../assets/logo.jpg">
+      <h3 style="margin-top: 1rem"></h3>
     </div>
 
     <br/>

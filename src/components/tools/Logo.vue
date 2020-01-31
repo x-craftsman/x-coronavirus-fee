@@ -18,7 +18,7 @@ export default {
   props: {
     title: {
       type: String,
-      default: 'Code Box',
+      default: '医院信息汇总',
       required: false
     },
     showTitle: {
